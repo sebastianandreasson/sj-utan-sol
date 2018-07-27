@@ -3,16 +3,15 @@ const getDirection = require('./getDirection')
 const SunCalc = require('suncalc')
 const stations = require('./stations.json')
 
-const addElement = (info, train) => {
-  console.log('now we can add', info, train)
+const setElementStyle = (info, sun, time) => {
+  console.log(time)
   const sunInfo = SunCalc.getPosition(
-    info.time.start,
+    time ? time : info.time.start,
     info.pos.start.lat,
     info.pos.start.lng,
   )
   console.log('sunInfo', sunInfo)
   const sunAngle = (sunInfo.azimuth * 180) / Math.PI
-  const sun = document.createElement('div')
   const style = `
     position: absolute;
     top: -150px;
@@ -27,8 +26,23 @@ const addElement = (info, train) => {
     opacity: 0.5;
   `
   sun.setAttribute('style', style)
+}
 
+const addElement = (info, train) => {
+  const sun = document.createElement('div')
   train.appendChild(sun)
+
+  const slider = document.createElement('input')
+  slider.setAttribute('type', 'range')
+  slider.setAttribute('min', info.time.start.valueOf())
+  slider.setAttribute('max', info.time.end.valueOf())
+  slider.addEventListener('change', function() {
+    const time = new Date(parseInt(this.value))
+    setElementStyle(info, sun, time)
+  })
+  train.appendChild(slider)
+
+  setElementStyle(info, sun)
 }
 
 const replaceSwedishLetters = string => {
@@ -89,8 +103,8 @@ const extractInfo = journeyElement => {
   info.time.start.setMinutes(parseInt(start.split(':')[1]))
 
   info.time.end = new Date()
-  info.time.end.setHours(parseInt(start.split(':')[0]))
-  info.time.end.setMinutes(parseInt(start.split(':')[1]))
+  info.time.end.setHours(parseInt(end.split(':')[0]))
+  info.time.end.setMinutes(parseInt(end.split(':')[1]))
 
   return info
 }
