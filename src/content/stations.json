@@ -1944,6 +1944,14 @@
     "lng": "18.0572"
   },
   {
+    "id": "243",
+    "name": "Sthlm Central",
+    "code": "74,cst",
+    "slug": "sthlm-central",
+    "lat": "59.3297",
+    "lng": "18.0572"
+  },
+  {
     "id": "244",
     "name": "Stora H\u00f6ga",
     "code": "74,sth",
@@ -2081,7 +2089,7 @@
   },
   {
     "id": "261",
-    "name": "Sv\u00e5gertorp \/ Malm\u00f6 Syd",
+    "name": "Sv\u00e5gertorp / Malm\u00f6 Syd",
     "code": "74,stp",
     "slug": "svagertorp-malmo-syd",
     "lat": "55.5473",
