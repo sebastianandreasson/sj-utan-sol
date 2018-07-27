@@ -1,0 +1,2762 @@
+[
+  {
+    "id": "1",
+    "name": "Abisko turiststation",
+    "code": "74,akt",
+    "slug": "abisko-turiststation",
+    "lat": "68.3573",
+    "lng": "18.7834"
+  },
+  {
+    "id": "2",
+    "name": "Abisko \u00d6stra",
+    "code": "74,ak",
+    "slug": "abisko-ostra",
+    "lat": "68.3492",
+    "lng": "18.8279"
+  },
+  {
+    "id": "3",
+    "name": "Alings\u00e5s",
+    "code": "74,a",
+    "slug": "alingsas",
+    "lat": "57.9269",
+    "lng": "12.5324"
+  },
+  {
+    "id": "4",
+    "name": "Alvesta",
+    "code": "74,av",
+    "slug": "alvesta",
+    "lat": "56.898",
+    "lng": "14.5565"
+  },
+  {
+    "id": "5",
+    "name": "Aneby",
+    "code": "74,any",
+    "slug": "aneby",
+    "lat": "57.8373",
+    "lng": "14.8117"
+  },
+  {
+    "id": "6",
+    "name": "Anneberg",
+    "code": "74,ag",
+    "slug": "anneberg",
+    "lat": "57.5386",
+    "lng": "12.1007"
+  },
+  {
+    "id": "7",
+    "name": "Arboga",
+    "code": "74,arb",
+    "slug": "arboga",
+    "lat": "59.3971",
+    "lng": "15.8405"
+  },
+  {
+    "id": "8",
+    "name": "Arbr\u00e5",
+    "code": "74,ab",
+    "slug": "arbra",
+    "lat": "61.471",
+    "lng": "16.3798"
+  },
+  {
+    "id": "9",
+    "name": "Arlanda C",
+    "code": "74,arnc",
+    "slug": "arlanda-c",
+    "lat": "59.6486",
+    "lng": "17.9287"
+  },
+  {
+    "id": "10",
+    "name": "Arvika",
+    "code": "74,ar",
+    "slug": "arvika",
+    "lat": "59.6536",
+    "lng": "12.5911"
+  },
+  {
+    "id": "11",
+    "name": "Avesta centrum",
+    "code": "74,acm",
+    "slug": "avesta-centrum",
+    "lat": "60.1473",
+    "lng": "16.1706"
+  },
+  {
+    "id": "12",
+    "name": "Avesta Krylbo",
+    "code": "74,avky",
+    "slug": "avesta-krylbo",
+    "lat": "60.1296",
+    "lng": "16.216"
+  },
+  {
+    "id": "13",
+    "name": "Bankeryd",
+    "code": "74,bry",
+    "slug": "bankeryd",
+    "lat": "57.8605",
+    "lng": "14.1283"
+  },
+  {
+    "id": "14",
+    "name": "Bastutr\u00e4sk",
+    "code": "74,bst",
+    "slug": "bastutrask",
+    "lat": "64.7887",
+    "lng": "20.0414"
+  },
+  {
+    "id": "15",
+    "name": "Berga",
+    "code": "74,bg",
+    "slug": "berga",
+    "lat": "57.2165",
+    "lng": "16.0336"
+  },
+  {
+    "id": "16",
+    "name": "Billeberga",
+    "code": "74,bib",
+    "slug": "billeberga",
+    "lat": "55.8837",
+    "lng": "12.9959"
+  },
+  {
+    "id": "17",
+    "name": "Bjuv",
+    "code": "74,bjuv",
+    "slug": "bjuv",
+    "lat": "56.083",
+    "lng": "12.9123"
+  },
+  {
+    "id": "18",
+    "name": "Bj\u00f6rbo",
+    "code": "74,b\u00f6o",
+    "slug": "bjorbo",
+    "lat": "60.4529",
+    "lng": "14.7301"
+  },
+  {
+    "id": "19",
+    "name": "Bj\u00f6rkliden",
+    "code": "74,bln",
+    "slug": "bjorkliden",
+    "lat": "68.4085",
+    "lng": "18.6864"
+  },
+  {
+    "id": "20",
+    "name": "Blomsterm\u00e5la",
+    "code": "74,bma",
+    "slug": "blomstermala",
+    "lat": "56.9807",
+    "lng": "16.3322"
+  },
+  {
+    "id": "21",
+    "name": "Bodafors",
+    "code": "74,bdf",
+    "slug": "bodafors",
+    "lat": "57.506",
+    "lng": "14.6947"
+  },
+  {
+    "id": "22",
+    "name": "Boden C",
+    "code": "74,bdn",
+    "slug": "boden-c",
+    "lat": "65.8273",
+    "lng": "21.7073"
+  },
+  {
+    "id": "23",
+    "name": "Bollebygd",
+    "code": "74,boy",
+    "slug": "bollebygd",
+    "lat": "57.6675",
+    "lng": "12.5699"
+  },
+  {
+    "id": "24",
+    "name": "Bolln\u00e4s",
+    "code": "74,bn",
+    "slug": "bollnas",
+    "lat": "61.3495",
+    "lng": "16.3917"
+  },
+  {
+    "id": "25",
+    "name": "Bor",
+    "code": "74,bor",
+    "slug": "bor",
+    "lat": "57.116",
+    "lng": "14.1689"
+  },
+  {
+    "id": "26",
+    "name": "Borl\u00e4nge C",
+    "code": "74,blg",
+    "slug": "borlange-c",
+    "lat": "60.483",
+    "lng": "15.4255"
+  },
+  {
+    "id": "27",
+    "name": "Bor\u00e5s C",
+    "code": "74,bs",
+    "slug": "boras-c",
+    "lat": "57.7209",
+    "lng": "12.9314"
+  },
+  {
+    "id": "28",
+    "name": "Boxholm",
+    "code": "74,bx",
+    "slug": "boxholm",
+    "lat": "58.1928",
+    "lng": "15.0536"
+  },
+  {
+    "id": "29",
+    "name": "Brom\u00f6lla",
+    "code": "74,bml",
+    "slug": "bromolla",
+    "lat": "56.0672",
+    "lng": "14.4815"
+  },
+  {
+    "id": "30",
+    "name": "Brunflo",
+    "code": "74,bf",
+    "slug": "brunflo",
+    "lat": "63.076",
+    "lng": "14.8325"
+  },
+  {
+    "id": "31",
+    "name": "Br\u00e4cke",
+    "code": "74,b\u00e4",
+    "slug": "bracke",
+    "lat": "62.7502",
+    "lng": "15.4174"
+  },
+  {
+    "id": "32",
+    "name": "Br\u00e4kne-Hoby",
+    "code": "74,bhb",
+    "slug": "brakne-hoby",
+    "lat": "56.2313",
+    "lng": "15.1161"
+  },
+  {
+    "id": "33",
+    "name": "Burl\u00f6v",
+    "code": "74,blv",
+    "slug": "burlov",
+    "lat": "55.641",
+    "lng": "13.0804"
+  },
+  {
+    "id": "34",
+    "name": "B\u00e5lsta",
+    "code": "74,b\u00e5l",
+    "slug": "balsta",
+    "lat": "59.5693",
+    "lng": "17.5318"
+  },
+  {
+    "id": "35",
+    "name": "B\u00e5stad",
+    "code": "74,b\u00e5s\u00f6",
+    "slug": "bastad",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "36",
+    "name": "Charlottenberg",
+    "code": "74,cg",
+    "slug": "charlottenberg",
+    "lat": "59.8832",
+    "lng": "12.2991"
+  },
+  {
+    "id": "37",
+    "name": "Dala-Floda",
+    "code": "74,dfl",
+    "slug": "dala-floda",
+    "lat": "60.4888",
+    "lng": "14.79"
+  },
+  {
+    "id": "38",
+    "name": "Dala-J\u00e4rna",
+    "code": "74,dj",
+    "slug": "dala-jarna",
+    "lat": "60.5478",
+    "lng": "14.3623"
+  },
+  {
+    "id": "39",
+    "name": "Degerfors",
+    "code": "74,dg",
+    "slug": "degerfors",
+    "lat": "59.2291",
+    "lng": "14.4403"
+  },
+  {
+    "id": "40",
+    "name": "Dingtuna",
+    "code": "74,dt",
+    "slug": "dingtuna",
+    "lat": "59.5715",
+    "lng": "16.3898"
+  },
+  {
+    "id": "41",
+    "name": "Djur\u00e5s",
+    "code": "74,d\u00e5",
+    "slug": "djuras",
+    "lat": "60.5601",
+    "lng": "15.1386"
+  },
+  {
+    "id": "42",
+    "name": "Duved",
+    "code": "74,du",
+    "slug": "duved",
+    "lat": "63.3898",
+    "lng": "12.9176"
+  },
+  {
+    "id": "43",
+    "name": "D\u00f6sjebro",
+    "code": "74,d\u00f6s",
+    "slug": "dosjebro",
+    "lat": "55.8229",
+    "lng": "13.0331"
+  },
+  {
+    "id": "44",
+    "name": "Ed",
+    "code": "74,ed",
+    "slug": "ed",
+    "lat": "58.9135",
+    "lng": "11.933"
+  },
+  {
+    "id": "45",
+    "name": "Edane",
+    "code": "74,en",
+    "slug": "edane",
+    "lat": "59.6268",
+    "lng": "12.8295"
+  },
+  {
+    "id": "46",
+    "name": "Eksj\u00f6",
+    "code": "74,ek",
+    "slug": "eksjo",
+    "lat": "57.6638",
+    "lng": "14.9754"
+  },
+  {
+    "id": "47",
+    "name": "Emmaboda",
+    "code": "74,em",
+    "slug": "emmaboda",
+    "lat": "56.63",
+    "lng": "15.5339"
+  },
+  {
+    "id": "48",
+    "name": "Enafors",
+    "code": "74,ens",
+    "slug": "enafors",
+    "lat": "63.2898",
+    "lng": "12.3374"
+  },
+  {
+    "id": "49",
+    "name": "Enk\u00f6ping",
+    "code": "74,ep",
+    "slug": "enkoping",
+    "lat": "59.6445",
+    "lng": "17.0885"
+  },
+  {
+    "id": "50",
+    "name": "Erikslund",
+    "code": "74,ei",
+    "slug": "erikslund",
+    "lat": "62.5274",
+    "lng": "15.9125"
+  },
+  {
+    "id": "51",
+    "name": "Eskilstuna C",
+    "code": "74,et",
+    "slug": "eskilstuna-c",
+    "lat": "59.3694",
+    "lng": "16.5055"
+  },
+  {
+    "id": "52",
+    "name": "Esl\u00f6v",
+    "code": "74,e",
+    "slug": "eslov",
+    "lat": "55.8377",
+    "lng": "13.3051"
+  },
+  {
+    "id": "53",
+    "name": "Fagersta C",
+    "code": "74,fgc",
+    "slug": "fagersta-c",
+    "lat": "59.9906",
+    "lng": "15.8163"
+  },
+  {
+    "id": "54",
+    "name": "Fagersta Norra",
+    "code": "74,fgn",
+    "slug": "fagersta-norra",
+    "lat": "60.0085",
+    "lng": "15.7756"
+  },
+  {
+    "id": "55",
+    "name": "Fager\u00e5s",
+    "code": "74,fg\u00e5",
+    "slug": "fageras",
+    "lat": "59.5198",
+    "lng": "13.2183"
+  },
+  {
+    "id": "56",
+    "name": "Falkenberg",
+    "code": "74,fabp",
+    "slug": "falkenberg",
+    "lat": "56.9016",
+    "lng": "12.4875"
+  },
+  {
+    "id": "57",
+    "name": "Falk\u00f6ping C",
+    "code": "74,f",
+    "slug": "falkoping-c",
+    "lat": "58.1758",
+    "lng": "13.552"
+  },
+  {
+    "id": "58",
+    "name": "Falun C",
+    "code": "74,fln",
+    "slug": "falun-c",
+    "lat": "60.6034",
+    "lng": "15.6418"
+  },
+  {
+    "id": "59",
+    "name": "Fj\u00e4ll\u00e5sen",
+    "code": "74,fj\u00e5",
+    "slug": "fjallasen",
+    "lat": "67.5194",
+    "lng": "20.0937"
+  },
+  {
+    "id": "60",
+    "name": "Flemingsberg",
+    "code": "74,flb",
+    "slug": "flemingsberg",
+    "lat": "59.2194",
+    "lng": "17.9476"
+  },
+  {
+    "id": "61",
+    "name": "Flen",
+    "code": "74,fle",
+    "slug": "flen",
+    "lat": "59.0569",
+    "lng": "16.5856"
+  },
+  {
+    "id": "62",
+    "name": "Floby",
+    "code": "74,fby",
+    "slug": "floby",
+    "lat": "58.1388",
+    "lng": "13.3322"
+  },
+  {
+    "id": "63",
+    "name": "Fors",
+    "code": "74,fs",
+    "slug": "fors",
+    "lat": "60.2065",
+    "lng": "16.3116"
+  },
+  {
+    "id": "64",
+    "name": "Forserum",
+    "code": "74,fm",
+    "slug": "forserum",
+    "lat": "57.6977",
+    "lng": "14.4748"
+  },
+  {
+    "id": "65",
+    "name": "Fr\u00e4nsta",
+    "code": "74,ft",
+    "slug": "fransta",
+    "lat": "62.496",
+    "lng": "16.1675"
+  },
+  {
+    "id": "66",
+    "name": "Fr\u00f6vi",
+    "code": "74,fv",
+    "slug": "frovi",
+    "lat": "59.4675",
+    "lng": "15.3639"
+  },
+  {
+    "id": "67",
+    "name": "Furuvik",
+    "code": "74,fvk",
+    "slug": "furuvik",
+    "lat": "60.6514",
+    "lng": "17.3297"
+  },
+  {
+    "id": "68",
+    "name": "Gagnef",
+    "code": "74,gnf",
+    "slug": "gagnef",
+    "lat": "60.5987",
+    "lng": "15.0812"
+  },
+  {
+    "id": "69",
+    "name": "Gantofta",
+    "code": "74,gan",
+    "slug": "gantofta",
+    "lat": "55.989",
+    "lng": "12.8091"
+  },
+  {
+    "id": "70",
+    "name": "Glumsl\u00f6v",
+    "code": "74,glv",
+    "slug": "glumslov",
+    "lat": "55.9439",
+    "lng": "12.8142"
+  },
+  {
+    "id": "71",
+    "name": "Gnarp",
+    "code": "74,gnp",
+    "slug": "gnarp",
+    "lat": "62.0554",
+    "lng": "17.2432"
+  },
+  {
+    "id": "72",
+    "name": "Gnesta",
+    "code": "74,gn",
+    "slug": "gnesta",
+    "lat": "59.0486",
+    "lng": "17.313"
+  },
+  {
+    "id": "73",
+    "name": "Gnosj\u00f6",
+    "code": "74,gn\u00f6",
+    "slug": "gnosjo",
+    "lat": "57.3586",
+    "lng": "13.7348"
+  },
+  {
+    "id": "74",
+    "name": "Grums",
+    "code": "74,gms",
+    "slug": "grums",
+    "lat": "59.353",
+    "lng": "13.1137"
+  },
+  {
+    "id": "75",
+    "name": "Gr\u00e4ngesberg",
+    "code": "74,gg",
+    "slug": "grangesberg",
+    "lat": "60.075",
+    "lng": "15.0036"
+  },
+  {
+    "id": "76",
+    "name": "Gr\u00e4storp",
+    "code": "74,gop",
+    "slug": "grastorp",
+    "lat": "58.3346",
+    "lng": "12.6859"
+  },
+  {
+    "id": "77",
+    "name": "Gunnesbo",
+    "code": "74,gnb",
+    "slug": "gunnesbo",
+    "lat": "55.7263",
+    "lng": "13.1681"
+  },
+  {
+    "id": "78",
+    "name": "G\u00e5rdsj\u00f6",
+    "code": "74,gd\u00f6",
+    "slug": "gardsjo",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "79",
+    "name": "G\u00e4llivare",
+    "code": "74,gv",
+    "slug": "gallivare",
+    "lat": "67.1335",
+    "lng": "20.6507"
+  },
+  {
+    "id": "80",
+    "name": "G\u00e4ll\u00f6",
+    "code": "74,g\u00f6",
+    "slug": "gallo",
+    "lat": "62.9112",
+    "lng": "15.2295"
+  },
+  {
+    "id": "81",
+    "name": "G\u00e4vle C",
+    "code": "74,g\u00e4",
+    "slug": "gavle-c",
+    "lat": "60.6761",
+    "lng": "17.1511"
+  },
+  {
+    "id": "82",
+    "name": "G\u00f6teborg C",
+    "code": "74,g",
+    "slug": "goteborg-c",
+    "lat": "57.7089",
+    "lng": "11.9739"
+  },
+  {
+    "id": "83",
+    "name": "Habo",
+    "code": "74,ho",
+    "slug": "habo",
+    "lat": "57.9063",
+    "lng": "14.0774"
+  },
+  {
+    "id": "84",
+    "name": "Hallsberg",
+    "code": "74,hpbg",
+    "slug": "hallsberg",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "85",
+    "name": "Hallstahammar",
+    "code": "74,hh",
+    "slug": "hallstahammar",
+    "lat": "59.6146",
+    "lng": "16.2202"
+  },
+  {
+    "id": "86",
+    "name": "Halmstad C",
+    "code": "74,hd",
+    "slug": "halmstad-c",
+    "lat": "56.6695",
+    "lng": "12.8647"
+  },
+  {
+    "id": "87",
+    "name": "Heby",
+    "code": "74,hy",
+    "slug": "heby",
+    "lat": "59.9404",
+    "lng": "16.8532"
+  },
+  {
+    "id": "88",
+    "name": "Hedemora",
+    "code": "74,hdm",
+    "slug": "hedemora",
+    "lat": "60.2741",
+    "lng": "15.9801"
+  },
+  {
+    "id": "89",
+    "name": "Helsingborg C",
+    "code": "74,hb",
+    "slug": "helsingborg-c",
+    "lat": "56.0361",
+    "lng": "12.7025"
+  },
+  {
+    "id": "90",
+    "name": "Herrljunga",
+    "code": "74,hr",
+    "slug": "herrljunga",
+    "lat": "58.0791",
+    "lng": "13.021"
+  },
+  {
+    "id": "91",
+    "name": "Hestra",
+    "code": "74,het",
+    "slug": "hestra",
+    "lat": "57.4432",
+    "lng": "13.5957"
+  },
+  {
+    "id": "92",
+    "name": "Hind\u00e5s",
+    "code": "74,h\u00e5s",
+    "slug": "hindas",
+    "lat": "57.7044",
+    "lng": "12.4512"
+  },
+  {
+    "id": "93",
+    "name": "Hj\u00e4ltevad",
+    "code": "74,hvd",
+    "slug": "hjaltevad",
+    "lat": "57.6289",
+    "lng": "15.3439"
+  },
+  {
+    "id": "94",
+    "name": "Hj\u00e4rup",
+    "code": "74,hjp",
+    "slug": "hjarup",
+    "lat": "55.6738",
+    "lng": "13.1361"
+  },
+  {
+    "id": "95",
+    "name": "Hofors",
+    "code": "74,hfr",
+    "slug": "hofors",
+    "lat": "60.5695",
+    "lng": "16.2662"
+  },
+  {
+    "id": "96",
+    "name": "Holmsj\u00f6",
+    "code": "74,hm\u00f6",
+    "slug": "holmsjo",
+    "lat": "56.4223",
+    "lng": "15.5422"
+  },
+  {
+    "id": "97",
+    "name": "Holmsveden",
+    "code": "74,hdn",
+    "slug": "holmsveden",
+    "lat": "61.1197",
+    "lng": "16.719"
+  },
+  {
+    "id": "98",
+    "name": "Horndals Bruk",
+    "code": "74,hlr",
+    "slug": "horndals-bruk",
+    "lat": "60.2962",
+    "lng": "16.4135"
+  },
+  {
+    "id": "99",
+    "name": "Hovmantorp",
+    "code": "74,hvp",
+    "slug": "hovmantorp",
+    "lat": "56.7862",
+    "lng": "15.1396"
+  },
+  {
+    "id": "100",
+    "name": "Hudiksvall",
+    "code": "74,hkl",
+    "slug": "hudiksvall",
+    "lat": "61.7245",
+    "lng": "17.1091"
+  },
+  {
+    "id": "101",
+    "name": "Hultsfred",
+    "code": "74,hf",
+    "slug": "hultsfred",
+    "lat": "57.4864",
+    "lng": "15.8467"
+  },
+  {
+    "id": "102",
+    "name": "Huskvarna",
+    "code": "74,hka",
+    "slug": "huskvarna",
+    "lat": "57.7823",
+    "lng": "14.2648"
+  },
+  {
+    "id": "103",
+    "name": "Husum",
+    "code": "74,hum",
+    "slug": "husum",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "104",
+    "name": "H\u00e4ljarp",
+    "code": "74,h\u00e4p",
+    "slug": "haljarp",
+    "lat": "55.8608",
+    "lng": "12.9126"
+  },
+  {
+    "id": "105",
+    "name": "H\u00e4lleforsn\u00e4s",
+    "code": "74,hn\u00e4",
+    "slug": "halleforsnas",
+    "lat": "59.162",
+    "lng": "16.5024"
+  },
+  {
+    "id": "106",
+    "name": "H\u00e4lln\u00e4s",
+    "code": "74,hls",
+    "slug": "hallnas",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "107",
+    "name": "H\u00e4rn\u00f6sand",
+    "code": "74,hsd",
+    "slug": "harnosand",
+    "lat": "62.6352",
+    "lng": "17.9279"
+  },
+  {
+    "id": "108",
+    "name": "H\u00e4ssleholm",
+    "code": "74,hm",
+    "slug": "hassleholm",
+    "lat": "56.1578",
+    "lng": "13.7628"
+  },
+  {
+    "id": "109",
+    "name": "H\u00f6gboda",
+    "code": "74,hbd",
+    "slug": "hogboda",
+    "lat": "59.5575",
+    "lng": "13.0514"
+  },
+  {
+    "id": "110",
+    "name": "H\u00f6gsby",
+    "code": "74,h\u00f6y",
+    "slug": "hogsby",
+    "lat": "57.1658",
+    "lng": "16.0275"
+  },
+  {
+    "id": "111",
+    "name": "H\u00f6rnefors",
+    "code": "74,h\u00f6f",
+    "slug": "hornefors",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "112",
+    "name": "H\u00f6\u00f6r",
+    "code": "74,h\u00f6",
+    "slug": "hoor",
+    "lat": "55.938",
+    "lng": "13.5439"
+  },
+  {
+    "id": "113",
+    "name": "Iggesund",
+    "code": "74,id",
+    "slug": "iggesund",
+    "lat": "61.6447",
+    "lng": "17.0813"
+  },
+  {
+    "id": "114",
+    "name": "Insj\u00f6n",
+    "code": "74,in",
+    "slug": "insjon",
+    "lat": "60.6754",
+    "lng": "15.0945"
+  },
+  {
+    "id": "115",
+    "name": "J\u00e4rpen",
+    "code": "74,jpn",
+    "slug": "jarpen",
+    "lat": "63.3424",
+    "lng": "13.4722"
+  },
+  {
+    "id": "116",
+    "name": "J\u00e4rvs\u00f6",
+    "code": "74,jr",
+    "slug": "jarvso",
+    "lat": "61.7157",
+    "lng": "16.1721"
+  },
+  {
+    "id": "117",
+    "name": "J\u00f6nk\u00f6ping C",
+    "code": "74,j\u00f6",
+    "slug": "jonkoping-c",
+    "lat": "57.7843",
+    "lng": "14.1653"
+  },
+  {
+    "id": "118",
+    "name": "J\u00f6rn",
+    "code": "74,jrn",
+    "slug": "jorn",
+    "lat": "65.0529",
+    "lng": "20.029"
+  },
+  {
+    "id": "119",
+    "name": "Kalmar C",
+    "code": "74,kac",
+    "slug": "kalmar-c",
+    "lat": "56.6612",
+    "lng": "16.3607"
+  },
+  {
+    "id": "120",
+    "name": "Karbenning",
+    "code": "74,kbn",
+    "slug": "karbenning",
+    "lat": "60.0369",
+    "lng": "16.0732"
+  },
+  {
+    "id": "121",
+    "name": "Karlshamn",
+    "code": "74,kh",
+    "slug": "karlshamn",
+    "lat": "56.1771",
+    "lng": "14.8662"
+  },
+  {
+    "id": "122",
+    "name": "Karlskrona C",
+    "code": "74,ck",
+    "slug": "karlskrona-c",
+    "lat": "56.1669",
+    "lng": "15.5852"
+  },
+  {
+    "id": "123",
+    "name": "Karlstad C",
+    "code": "74,ks",
+    "slug": "karlstad-c",
+    "lat": "59.3779",
+    "lng": "13.4991"
+  },
+  {
+    "id": "124",
+    "name": "Katrineholm C",
+    "code": "74,k",
+    "slug": "katrineholm-c",
+    "lat": "58.9966",
+    "lng": "16.2093"
+  },
+  {
+    "id": "125",
+    "name": "Kattarp",
+    "code": "74,ka",
+    "slug": "kattarp",
+    "lat": "56.1449",
+    "lng": "12.7784"
+  },
+  {
+    "id": "126",
+    "name": "Katterj\u00e5kk",
+    "code": "74,kj\u00e5",
+    "slug": "katterjakk",
+    "lat": "68.42",
+    "lng": "18.1611"
+  },
+  {
+    "id": "127",
+    "name": "Kil",
+    "code": "74,kil",
+    "slug": "kil",
+    "lat": "59.5047",
+    "lng": "13.3162"
+  },
+  {
+    "id": "128",
+    "name": "Kilafors",
+    "code": "74,kls",
+    "slug": "kilafors",
+    "lat": "61.2306",
+    "lng": "16.5705"
+  },
+  {
+    "id": "129",
+    "name": "Kimstad",
+    "code": "74,kms",
+    "slug": "kimstad",
+    "lat": "58.536",
+    "lng": "15.9686"
+  },
+  {
+    "id": "130",
+    "name": "Kiruna C",
+    "code": "74,kra",
+    "slug": "kiruna-c",
+    "lat": "67.8552",
+    "lng": "20.2149"
+  },
+  {
+    "id": "131",
+    "name": "Kisa",
+    "code": "74,kisa",
+    "slug": "kisa",
+    "lat": "57.9847",
+    "lng": "15.634"
+  },
+  {
+    "id": "132",
+    "name": "Klevshult",
+    "code": "74,kvh",
+    "slug": "klevshult",
+    "lat": "57.3517",
+    "lng": "14.0974"
+  },
+  {
+    "id": "133",
+    "name": "Klippan",
+    "code": "74,kl",
+    "slug": "klippan",
+    "lat": "56.1308",
+    "lng": "13.1282"
+  },
+  {
+    "id": "134",
+    "name": "Knivsta",
+    "code": "74,kn",
+    "slug": "knivsta",
+    "lat": "59.7254",
+    "lng": "17.7869"
+  },
+  {
+    "id": "135",
+    "name": "Kode",
+    "code": "74,kde",
+    "slug": "kode",
+    "lat": "57.9445",
+    "lng": "11.8509"
+  },
+  {
+    "id": "136",
+    "name": "Kolb\u00e4ck",
+    "code": "74,kb\u00e4",
+    "slug": "kolback",
+    "lat": "59.5643",
+    "lng": "16.2331"
+  },
+  {
+    "id": "137",
+    "name": "Kolm\u00e5rden",
+    "code": "74,kon",
+    "slug": "kolmarden",
+    "lat": "58.6746",
+    "lng": "16.3626"
+  },
+  {
+    "id": "138",
+    "name": "Kopparberg",
+    "code": "74,kpg",
+    "slug": "kopparberg",
+    "lat": "59.8726",
+    "lng": "14.9867"
+  },
+  {
+    "id": "139",
+    "name": "Kristianstad C",
+    "code": "74,cr",
+    "slug": "kristianstad-c",
+    "lat": "56.0322",
+    "lng": "14.1506"
+  },
+  {
+    "id": "140",
+    "name": "Kristinehamn",
+    "code": "74,khn",
+    "slug": "kristinehamn",
+    "lat": "59.3166",
+    "lng": "14.1085"
+  },
+  {
+    "id": "141",
+    "name": "Krokom",
+    "code": "74,krm",
+    "slug": "krokom",
+    "lat": "63.3259",
+    "lng": "14.448"
+  },
+  {
+    "id": "142",
+    "name": "Kumla",
+    "code": "74,kla",
+    "slug": "kumla",
+    "lat": "59.1274",
+    "lng": "15.1409"
+  },
+  {
+    "id": "143",
+    "name": "Kungsbacka",
+    "code": "74,kb",
+    "slug": "kungsbacka",
+    "lat": "57.4895",
+    "lng": "12.0798"
+  },
+  {
+    "id": "144",
+    "name": "Kungsbacka Hede",
+    "code": "74,khe",
+    "slug": "kungsbacka-hede",
+    "lat": "57.5142",
+    "lng": "12.0844"
+  },
+  {
+    "id": "145",
+    "name": "Kungs\u00f6r",
+    "code": "74,k\u00f6r",
+    "slug": "kungsor",
+    "lat": "59.4278",
+    "lng": "16.1031"
+  },
+  {
+    "id": "146",
+    "name": "Kvicksund",
+    "code": "74,ksus",
+    "slug": "kvicksund",
+    "lat": "59.4581",
+    "lng": "16.3095"
+  },
+  {
+    "id": "147",
+    "name": "K\u00e5llered",
+    "code": "74,krd",
+    "slug": "kallered",
+    "lat": "57.6154",
+    "lng": "12.0462"
+  },
+  {
+    "id": "148",
+    "name": "K\u00e4vlinge",
+    "code": "74,kg",
+    "slug": "kavlinge",
+    "lat": "55.7942",
+    "lng": "13.1114"
+  },
+  {
+    "id": "149",
+    "name": "K\u00f6ping",
+    "code": "74,kp",
+    "slug": "koping",
+    "lat": "59.506",
+    "lng": "16.0071"
+  },
+  {
+    "id": "150",
+    "name": "Laholm",
+    "code": "74,laov",
+    "slug": "laholm",
+    "lat": "56.5029",
+    "lng": "12.9995"
+  },
+  {
+    "id": "151",
+    "name": "Landeryd",
+    "code": "74,lrd",
+    "slug": "landeryd",
+    "lat": "57.0767",
+    "lng": "13.2656"
+  },
+  {
+    "id": "152",
+    "name": "Landskrona",
+    "code": "74,lk\u00f6",
+    "slug": "landskrona",
+    "lat": "55.879",
+    "lng": "12.8574"
+  },
+  {
+    "id": "153",
+    "name": "Lax\u00e5",
+    "code": "74,l\u00e5",
+    "slug": "laxa",
+    "lat": "58.9889",
+    "lng": "14.6148"
+  },
+  {
+    "id": "154",
+    "name": "Leksand",
+    "code": "74,lsd",
+    "slug": "leksand",
+    "lat": "60.7339",
+    "lng": "15.0031"
+  },
+  {
+    "id": "155",
+    "name": "Lessebo",
+    "code": "74,lo",
+    "slug": "lessebo",
+    "lat": "56.7506",
+    "lng": "15.2584"
+  },
+  {
+    "id": "156",
+    "name": "Lidk\u00f6ping",
+    "code": "74,lkp",
+    "slug": "lidkoping",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "157",
+    "name": "Limmared",
+    "code": "74,lme",
+    "slug": "limmared",
+    "lat": "57.534",
+    "lng": "13.3535"
+  },
+  {
+    "id": "158",
+    "name": "Lindesberg",
+    "code": "74,ld",
+    "slug": "lindesberg",
+    "lat": "59.5944",
+    "lng": "15.2287"
+  },
+  {
+    "id": "159",
+    "name": "Lindome",
+    "code": "74,ldo",
+    "slug": "lindome",
+    "lat": "57.5768",
+    "lng": "12.0783"
+  },
+  {
+    "id": "160",
+    "name": "Lingbo",
+    "code": "74,lb",
+    "slug": "lingbo",
+    "lat": "61.0449",
+    "lng": "16.6727"
+  },
+  {
+    "id": "161",
+    "name": "Linghem",
+    "code": "74,lgm",
+    "slug": "linghem",
+    "lat": "58.4363",
+    "lng": "15.7849"
+  },
+  {
+    "id": "162",
+    "name": "Link\u00f6ping C",
+    "code": "74,lp",
+    "slug": "linkoping-c",
+    "lat": "58.4171",
+    "lng": "15.6244"
+  },
+  {
+    "id": "163",
+    "name": "Liseberg",
+    "code": "74,lis",
+    "slug": "liseberg",
+    "lat": "57.6996",
+    "lng": "11.9963"
+  },
+  {
+    "id": "164",
+    "name": "Ljungaverk",
+    "code": "74,ljv",
+    "slug": "ljungaverk",
+    "lat": "62.4961",
+    "lng": "16.0783"
+  },
+  {
+    "id": "165",
+    "name": "Ljusdal",
+    "code": "74,ls",
+    "slug": "ljusdal",
+    "lat": "61.8269",
+    "lng": "16.0965"
+  },
+  {
+    "id": "166",
+    "name": "Ljusne",
+    "code": "74,lse",
+    "slug": "ljusne",
+    "lat": "61.2125",
+    "lng": "17.1119"
+  },
+  {
+    "id": "167",
+    "name": "Ludvika",
+    "code": "74,la",
+    "slug": "ludvika",
+    "lat": "60.1498",
+    "lng": "15.1826"
+  },
+  {
+    "id": "168",
+    "name": "Lule\u00e5 C",
+    "code": "74,le",
+    "slug": "lulea-c",
+    "lat": "65.5836",
+    "lng": "22.1656"
+  },
+  {
+    "id": "169",
+    "name": "Lund C",
+    "code": "74,lu",
+    "slug": "lund-c",
+    "lat": "55.7074",
+    "lng": "13.1865"
+  },
+  {
+    "id": "170",
+    "name": "L\u00e5ktatj\u00e5kka",
+    "code": "74,l\u00e5k",
+    "slug": "laktatjakka",
+    "lat": "68.4236",
+    "lng": "18.325"
+  },
+  {
+    "id": "171",
+    "name": "L\u00e5ngsele",
+    "code": "74,lsl",
+    "slug": "langsele",
+    "lat": "63.1764",
+    "lng": "17.0672"
+  },
+  {
+    "id": "172",
+    "name": "L\u00e4ggesta",
+    "code": "74,lg",
+    "slug": "laggesta",
+    "lat": "59.2475",
+    "lng": "17.1692"
+  },
+  {
+    "id": "173",
+    "name": "Malmb\u00e4ck",
+    "code": "74,mb\u00e4",
+    "slug": "malmback",
+    "lat": "57.5781",
+    "lng": "14.4605"
+  },
+  {
+    "id": "174",
+    "name": "Malm\u00f6 C",
+    "code": "74,m",
+    "slug": "malmo-c",
+    "lat": "55.6095",
+    "lng": "13.003"
+  },
+  {
+    "id": "175",
+    "name": "Malung",
+    "code": "74,mlg",
+    "slug": "malung",
+    "lat": "60.6837",
+    "lng": "13.7101"
+  },
+  {
+    "id": "176",
+    "name": "Malung Folkh\u00f6gskola",
+    "code": "74,mlgf",
+    "slug": "malung-folkhogskola",
+    "lat": "60.6683",
+    "lng": "13.7354"
+  },
+  {
+    "id": "177",
+    "name": "Malung Gymnasium",
+    "code": "74,mlgg",
+    "slug": "malung-gymnasium",
+    "lat": "60.6811",
+    "lng": "13.719"
+  },
+  {
+    "id": "178",
+    "name": "Mantorp",
+    "code": "74,mt",
+    "slug": "mantorp",
+    "lat": "58.348",
+    "lng": "15.2881"
+  },
+  {
+    "id": "179",
+    "name": "Maria",
+    "code": "74,mia",
+    "slug": "maria",
+    "lat": "56.0756",
+    "lng": "12.7107"
+  },
+  {
+    "id": "180",
+    "name": "Mariannelund",
+    "code": "74,mnd",
+    "slug": "mariannelund",
+    "lat": "57.6161",
+    "lng": "15.5851"
+  },
+  {
+    "id": "181",
+    "name": "Markaryd",
+    "code": "74,mrd",
+    "slug": "markaryd",
+    "lat": "56.4597",
+    "lng": "13.5941"
+  },
+  {
+    "id": "182",
+    "name": "Marma",
+    "code": "74,maa",
+    "slug": "marma",
+    "lat": "60.4801",
+    "lng": "17.421"
+  },
+  {
+    "id": "183",
+    "name": "Mehedeby",
+    "code": "74,meh",
+    "slug": "mehedeby",
+    "lat": "60.4506",
+    "lng": "17.4006"
+  },
+  {
+    "id": "184",
+    "name": "Mellansel",
+    "code": "74,msl",
+    "slug": "mellansel",
+    "lat": "63.4282",
+    "lng": "18.3068"
+  },
+  {
+    "id": "185",
+    "name": "Mellerud",
+    "code": "74,ml",
+    "slug": "mellerud",
+    "lat": "58.7018",
+    "lng": "12.4647"
+  },
+  {
+    "id": "186",
+    "name": "Mj\u00f6lby",
+    "code": "74,my",
+    "slug": "mjolby",
+    "lat": "58.3228",
+    "lng": "15.1321"
+  },
+  {
+    "id": "187",
+    "name": "Mockfj\u00e4rd",
+    "code": "74,mfj",
+    "slug": "mockfjard",
+    "lat": "60.4957",
+    "lng": "14.9584"
+  },
+  {
+    "id": "188",
+    "name": "Mora",
+    "code": "74,mra",
+    "slug": "mora",
+    "lat": "61.0088",
+    "lng": "14.5597"
+  },
+  {
+    "id": "189",
+    "name": "Morgong\u00e5va",
+    "code": "74,m\u00e5",
+    "slug": "morgongava",
+    "lat": "59.9329",
+    "lng": "16.9615"
+  },
+  {
+    "id": "190",
+    "name": "Motala C",
+    "code": "74,mot",
+    "slug": "motala-c",
+    "lat": "58.5381",
+    "lng": "15.0491"
+  },
+  {
+    "id": "191",
+    "name": "Mullsj\u00f6",
+    "code": "74,mu",
+    "slug": "mullsjo",
+    "lat": "57.915",
+    "lng": "13.8819"
+  },
+  {
+    "id": "192",
+    "name": "Murjek",
+    "code": "74,mk",
+    "slug": "murjek",
+    "lat": "66.4841",
+    "lng": "20.8809"
+  },
+  {
+    "id": "193",
+    "name": "M\u00e5nsarp",
+    "code": "74,m\u00e5p",
+    "slug": "mansarp",
+    "lat": "57.6541",
+    "lng": "14.0709"
+  },
+  {
+    "id": "194",
+    "name": "M\u00e4rsta",
+    "code": "74,mr",
+    "slug": "marsta",
+    "lat": "59.6278",
+    "lng": "17.8614"
+  },
+  {
+    "id": "195",
+    "name": "M\u00f6lndal",
+    "code": "74,mdn",
+    "slug": "molndal",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "196",
+    "name": "M\u00f6lnlycke",
+    "code": "74,myk",
+    "slug": "molnlycke",
+    "lat": "57.6584",
+    "lng": "12.1247"
+  },
+  {
+    "id": "197",
+    "name": "M\u00f6rarp",
+    "code": "74,m\u00f6r",
+    "slug": "morarp",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "198",
+    "name": "M\u00f6rrum",
+    "code": "74,mru",
+    "slug": "morrum",
+    "lat": "56.1869",
+    "lng": "14.7428"
+  },
+  {
+    "id": "199",
+    "name": "Nordmaling",
+    "code": "74,nog",
+    "slug": "nordmaling",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "200",
+    "name": "Norrk\u00f6ping C",
+    "code": "74,nr",
+    "slug": "norrkoping-c",
+    "lat": "58.5966",
+    "lng": "16.1816"
+  },
+  {
+    "id": "201",
+    "name": "Nybro",
+    "code": "74,nyb",
+    "slug": "nybro",
+    "lat": "56.7423",
+    "lng": "15.909"
+  },
+  {
+    "id": "202",
+    "name": "Nykvarn",
+    "code": "74,nkv",
+    "slug": "nykvarn",
+    "lat": "59.1787",
+    "lng": "17.4323"
+  },
+  {
+    "id": "203",
+    "name": "Nyk\u00f6ping C",
+    "code": "74,nk",
+    "slug": "nykoping-c",
+    "lat": "58.7566",
+    "lng": "16.9971"
+  },
+  {
+    "id": "204",
+    "name": "N\u00e5s",
+    "code": "74,n\u00e5s",
+    "slug": "nas",
+    "lat": "60.4628",
+    "lng": "14.4998"
+  },
+  {
+    "id": "205",
+    "name": "N\u00e4ssj\u00f6 C",
+    "code": "74,n",
+    "slug": "nassjo-c",
+    "lat": "57.653",
+    "lng": "14.6931"
+  },
+  {
+    "id": "206",
+    "name": "Ockelbo",
+    "code": "74,ob",
+    "slug": "ockelbo",
+    "lat": "60.8912",
+    "lng": "16.7209"
+  },
+  {
+    "id": "207",
+    "name": "Osby",
+    "code": "74,o",
+    "slug": "osby",
+    "lat": "56.3813",
+    "lng": "13.9956"
+  },
+  {
+    "id": "208",
+    "name": "Oxie",
+    "code": "74,ox",
+    "slug": "oxie",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "209",
+    "name": "Persborg",
+    "code": "74,mpb",
+    "slug": "persborg",
+    "lat": "55.5807",
+    "lng": "13.0293"
+  },
+  {
+    "id": "210",
+    "name": "Perstorp",
+    "code": "74,pt",
+    "slug": "perstorp",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "211",
+    "name": "Pilgrimstad",
+    "code": "74,pl",
+    "slug": "pilgrimstad",
+    "lat": "62.955",
+    "lng": "15.0403"
+  },
+  {
+    "id": "212",
+    "name": "P\u00e5arp",
+    "code": "74,p\u00e5a",
+    "slug": "paarp",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "213",
+    "name": "Raml\u00f6sa",
+    "code": "74,hbgb",
+    "slug": "ramlosa",
+    "lat": "56.0236",
+    "lng": "12.7276"
+  },
+  {
+    "id": "214",
+    "name": "Ramn\u00e4s",
+    "code": "74,rmn",
+    "slug": "ramnas",
+    "lat": "59.7697",
+    "lng": "16.2079"
+  },
+  {
+    "id": "215",
+    "name": "Ransta",
+    "code": "74,rt",
+    "slug": "ransta",
+    "lat": "59.8102",
+    "lng": "16.64"
+  },
+  {
+    "id": "216",
+    "name": "Riksgr\u00e4nsen",
+    "code": "74,rgn",
+    "slug": "riksgransen",
+    "lat": "68.4271",
+    "lng": "18.1191"
+  },
+  {
+    "id": "217",
+    "name": "Rimforsa",
+    "code": "74,rf",
+    "slug": "rimforsa",
+    "lat": "58.1353",
+    "lng": "15.6817"
+  },
+  {
+    "id": "218",
+    "name": "Ronneby",
+    "code": "74,rb",
+    "slug": "ronneby",
+    "lat": "56.2065",
+    "lng": "15.2835"
+  },
+  {
+    "id": "219",
+    "name": "Rydaholm",
+    "code": "74,rym",
+    "slug": "rydaholm",
+    "lat": "56.9863",
+    "lng": "14.3116"
+  },
+  {
+    "id": "220",
+    "name": "Rydeb\u00e4ck",
+    "code": "74,ry\u00e4",
+    "slug": "rydeback",
+    "lat": "55.966",
+    "lng": "12.7834"
+  },
+  {
+    "id": "221",
+    "name": "Rydsg\u00e5rd",
+    "code": "74,rdg",
+    "slug": "rydsgard",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "222",
+    "name": "R\u00e5gsveden",
+    "code": "74,r\u00e5g",
+    "slug": "ragsveden",
+    "lat": "60.4792",
+    "lng": "14.0674"
+  },
+  {
+    "id": "223",
+    "name": "R\u00e4ttvik",
+    "code": "74,rv",
+    "slug": "rattvik",
+    "lat": "60.8847",
+    "lng": "15.1156"
+  },
+  {
+    "id": "224",
+    "name": "R\u00e4vlanda",
+    "code": "74,rd",
+    "slug": "ravlanda",
+    "lat": "57.6544",
+    "lng": "12.5004"
+  },
+  {
+    "id": "225",
+    "name": "R\u00f6rstorp",
+    "code": "74,r\u00f6p",
+    "slug": "rorstorp",
+    "lat": "57.1722",
+    "lng": "14.0644"
+  },
+  {
+    "id": "226",
+    "name": "Sala",
+    "code": "74,sl",
+    "slug": "sala",
+    "lat": "59.9257",
+    "lng": "16.6046"
+  },
+  {
+    "id": "227",
+    "name": "Sandared",
+    "code": "74,sae",
+    "slug": "sandared",
+    "lat": "57.7095",
+    "lng": "12.7925"
+  },
+  {
+    "id": "228",
+    "name": "Sandhem",
+    "code": "74,sm",
+    "slug": "sandhem",
+    "lat": "57.9882",
+    "lng": "13.773"
+  },
+  {
+    "id": "229",
+    "name": "Sandviken",
+    "code": "74,snv",
+    "slug": "sandviken",
+    "lat": "60.6143",
+    "lng": "16.7779"
+  },
+  {
+    "id": "230",
+    "name": "Skillingaryd",
+    "code": "74,syd",
+    "slug": "skillingaryd",
+    "lat": "57.4284",
+    "lng": "14.0908"
+  },
+  {
+    "id": "231",
+    "name": "Skinnskatteberg",
+    "code": "74,skb",
+    "slug": "skinnskatteberg",
+    "lat": "59.8327",
+    "lng": "15.6919"
+  },
+  {
+    "id": "232",
+    "name": "Skurup",
+    "code": "74,srp",
+    "slug": "skurup",
+    "lat": "55.4802",
+    "lng": "13.498"
+  },
+  {
+    "id": "233",
+    "name": "Skutsk\u00e4r",
+    "code": "74,sur",
+    "slug": "skutskar",
+    "lat": "60.6228",
+    "lng": "17.4057"
+  },
+  {
+    "id": "234",
+    "name": "Skyttorp",
+    "code": "74,syt",
+    "slug": "skyttorp",
+    "lat": "60.0794",
+    "lng": "17.7368"
+  },
+  {
+    "id": "235",
+    "name": "Sk\u00f6vde C",
+    "code": "74,sk",
+    "slug": "skovde-c",
+    "lat": "58.3892",
+    "lng": "13.8519"
+  },
+  {
+    "id": "236",
+    "name": "Smedjebacken",
+    "code": "74,smj",
+    "slug": "smedjebacken",
+    "lat": "60.1364",
+    "lng": "15.4058"
+  },
+  {
+    "id": "237",
+    "name": "Sm\u00e5landsstenar",
+    "code": "74,sdr",
+    "slug": "smalandsstenar",
+    "lat": "57.1614",
+    "lng": "13.4148"
+  },
+  {
+    "id": "238",
+    "name": "Stavre",
+    "code": "74,stv",
+    "slug": "stavre",
+    "lat": "62.8261",
+    "lng": "15.3118"
+  },
+  {
+    "id": "239",
+    "name": "Stehag",
+    "code": "74,sg",
+    "slug": "stehag",
+    "lat": "55.9003",
+    "lng": "13.3933"
+  },
+  {
+    "id": "240",
+    "name": "Stenstorp",
+    "code": "74,ss",
+    "slug": "stenstorp",
+    "lat": "58.2729",
+    "lng": "13.7127"
+  },
+  {
+    "id": "241",
+    "name": "Stenungsund",
+    "code": "74,snu",
+    "slug": "stenungsund",
+    "lat": "58.0727",
+    "lng": "11.8247"
+  },
+  {
+    "id": "242",
+    "name": "Stockaryd",
+    "code": "74,sy",
+    "slug": "stockaryd",
+    "lat": "57.3097",
+    "lng": "14.5919"
+  },
+  {
+    "id": "243",
+    "name": "Stockholm C",
+    "code": "74,cst",
+    "slug": "stockholm-c",
+    "lat": "59.3297",
+    "lng": "18.0572"
+  },
+  {
+    "id": "244",
+    "name": "Stora H\u00f6ga",
+    "code": "74,sth",
+    "slug": "stora-hoga",
+    "lat": "58.0187",
+    "lng": "11.8358"
+  },
+  {
+    "id": "245",
+    "name": "Storlien",
+    "code": "74,str",
+    "slug": "storlien",
+    "lat": "63.3161",
+    "lng": "12.0997"
+  },
+  {
+    "id": "246",
+    "name": "Storvik",
+    "code": "74,sv",
+    "slug": "storvik",
+    "lat": "60.5819",
+    "lng": "16.5343"
+  },
+  {
+    "id": "247",
+    "name": "Storvreta",
+    "code": "74,srv",
+    "slug": "storvreta",
+    "lat": "59.9564",
+    "lng": "17.7062"
+  },
+  {
+    "id": "248",
+    "name": "Stor\u00e5",
+    "code": "74,sr",
+    "slug": "stora",
+    "lat": "59.7188",
+    "lng": "15.1408"
+  },
+  {
+    "id": "249",
+    "name": "Str\u00e4ngn\u00e4s",
+    "code": "74,sgs",
+    "slug": "strangnas",
+    "lat": "59.3703",
+    "lng": "17.0281"
+  },
+  {
+    "id": "250",
+    "name": "St\u00e5ngby",
+    "code": "74,stb",
+    "slug": "stangby",
+    "lat": "55.7513",
+    "lng": "13.2005"
+  },
+  {
+    "id": "251",
+    "name": "St\u00e4lldalen",
+    "code": "74,stl",
+    "slug": "stalldalen",
+    "lat": "59.9345",
+    "lng": "14.9416"
+  },
+  {
+    "id": "252",
+    "name": "St\u00f6de",
+    "code": "74,std",
+    "slug": "stode",
+    "lat": "62.4198",
+    "lng": "16.5991"
+  },
+  {
+    "id": "253",
+    "name": "Sundbyberg",
+    "code": "74,sub",
+    "slug": "sundbyberg",
+    "lat": "59.3609",
+    "lng": "17.9718"
+  },
+  {
+    "id": "254",
+    "name": "Sunderby sjukhus",
+    "code": "74,sus",
+    "slug": "sunderby-sjukhus",
+    "lat": "65.6735",
+    "lng": "21.9353"
+  },
+  {
+    "id": "255",
+    "name": "Sundsvall C",
+    "code": "74,suc",
+    "slug": "sundsvall-c",
+    "lat": "62.3867",
+    "lng": "17.3151"
+  },
+  {
+    "id": "256",
+    "name": "Sundsvall V\u00e4stra",
+    "code": "74,suv",
+    "slug": "sundsvall-vastra",
+    "lat": "62.3891",
+    "lng": "17.2967"
+  },
+  {
+    "id": "257",
+    "name": "Surahammar",
+    "code": "74,shr",
+    "slug": "surahammar",
+    "lat": "59.7065",
+    "lng": "16.2196"
+  },
+  {
+    "id": "258",
+    "name": "Svarte",
+    "code": "74,ste",
+    "slug": "svarte",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "259",
+    "name": "Svedala",
+    "code": "74,sea",
+    "slug": "svedala",
+    "lat": "55.5069",
+    "lng": "13.232"
+  },
+  {
+    "id": "260",
+    "name": "Svensh\u00f6gen",
+    "code": "74,svg",
+    "slug": "svenshogen",
+    "lat": "58.1447",
+    "lng": "11.9362"
+  },
+  {
+    "id": "261",
+    "name": "Sv\u00e5gertorp \/ Malm\u00f6 Syd",
+    "code": "74,stp",
+    "slug": "svagertorp-malmo-syd",
+    "lat": "55.5473",
+    "lng": "12.9933"
+  },
+  {
+    "id": "262",
+    "name": "S\u00e4ffle",
+    "code": "74,sfl",
+    "slug": "saffle",
+    "lat": "59.1323",
+    "lng": "12.9162"
+  },
+  {
+    "id": "263",
+    "name": "S\u00e4ter",
+    "code": "74,st",
+    "slug": "sater",
+    "lat": "60.3466",
+    "lng": "15.757"
+  },
+  {
+    "id": "264",
+    "name": "S\u00e4vsj\u00f6",
+    "code": "74,s\u00e4",
+    "slug": "savsjo",
+    "lat": "57.4028",
+    "lng": "14.6655"
+  },
+  {
+    "id": "265",
+    "name": "S\u00f6derb\u00e4rke",
+    "code": "74,sre",
+    "slug": "soderbarke",
+    "lat": "60.0724",
+    "lng": "15.5371"
+  },
+  {
+    "id": "266",
+    "name": "S\u00f6derhamn",
+    "code": "74,shv",
+    "slug": "soderhamn",
+    "lat": "61.2994",
+    "lng": "17.035"
+  },
+  {
+    "id": "267",
+    "name": "S\u00f6dert\u00e4lje Syd",
+    "code": "74,s\u00f6\u00f6",
+    "slug": "sodertalje-syd",
+    "lat": "59.1634",
+    "lng": "17.6477"
+  },
+  {
+    "id": "268",
+    "name": "S\u00f6lvesborg",
+    "code": "74,s\u00f6g",
+    "slug": "solvesborg",
+    "lat": "56.0494",
+    "lng": "14.583"
+  },
+  {
+    "id": "269",
+    "name": "Teckomatorp",
+    "code": "74,tp",
+    "slug": "teckomatorp",
+    "lat": "55.8705",
+    "lng": "13.0851"
+  },
+  {
+    "id": "270",
+    "name": "Tenhult",
+    "code": "74,th",
+    "slug": "tenhult",
+    "lat": "57.7052",
+    "lng": "14.3266"
+  },
+  {
+    "id": "271",
+    "name": "Tierp",
+    "code": "74,tip",
+    "slug": "tierp",
+    "lat": "60.3458",
+    "lng": "17.513"
+  },
+  {
+    "id": "272",
+    "name": "Tillberga",
+    "code": "74,tb",
+    "slug": "tillberga",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "273",
+    "name": "Timr\u00e5",
+    "code": "74,tr\u00e5",
+    "slug": "timra",
+    "lat": "62.4864",
+    "lng": "17.3303"
+  },
+  {
+    "id": "274",
+    "name": "Tobo",
+    "code": "74,tbo",
+    "slug": "tobo",
+    "lat": "60.259",
+    "lng": "17.6337"
+  },
+  {
+    "id": "275",
+    "name": "Torpshammar",
+    "code": "74,to",
+    "slug": "torpshammar",
+    "lat": "62.4728",
+    "lng": "16.3355"
+  },
+  {
+    "id": "276",
+    "name": "Tors\u00e5ker",
+    "code": "74,ts\u00e5",
+    "slug": "torsaker",
+    "lat": "60.5146",
+    "lng": "16.4901"
+  },
+  {
+    "id": "277",
+    "name": "Torup",
+    "code": "74,tou",
+    "slug": "torup",
+    "lat": "56.9577",
+    "lng": "13.0795"
+  },
+  {
+    "id": "278",
+    "name": "Tran\u00e5s",
+    "code": "74,tns",
+    "slug": "tranas",
+    "lat": "58.038",
+    "lng": "14.9751"
+  },
+  {
+    "id": "279",
+    "name": "Trollh\u00e4ttan C",
+    "code": "74,thn",
+    "slug": "trollhattan-c",
+    "lat": "58.2876",
+    "lng": "12.299"
+  },
+  {
+    "id": "280",
+    "name": "Tyringe",
+    "code": "74,ty",
+    "slug": "tyringe",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "281",
+    "name": "T\u00e5garp",
+    "code": "74,tgp",
+    "slug": "tagarp",
+    "lat": "55.9273",
+    "lng": "12.9474"
+  },
+  {
+    "id": "282",
+    "name": "T\u00e4llberg",
+    "code": "74,tlg",
+    "slug": "tallberg",
+    "lat": "60.8187",
+    "lng": "15.0202"
+  },
+  {
+    "id": "283",
+    "name": "T\u00f6reboda",
+    "code": "74,t",
+    "slug": "toreboda",
+    "lat": "58.7046",
+    "lng": "14.1272"
+  },
+  {
+    "id": "284",
+    "name": "Uddevalla C",
+    "code": "74,uv",
+    "slug": "uddevalla-c",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "285",
+    "name": "Uddevalla \u00d6stra",
+    "code": "74,u\u00f6",
+    "slug": "uddevalla-ostra",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "286",
+    "name": "Ume\u00e5 C",
+    "code": "74,u\u00e5",
+    "slug": "umea-c",
+    "lat": "65.5841",
+    "lng": "22.1649"
+  },
+  {
+    "id": "287",
+    "name": "Ume\u00e5 \u00d6stra",
+    "code": "74,u\u00e5\u00f6",
+    "slug": "umea-ostra",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "288",
+    "name": "Unders\u00e5ker",
+    "code": "74,un",
+    "slug": "undersaker",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "289",
+    "name": "Upplands V\u00e4sby",
+    "code": "74,upv",
+    "slug": "upplands-vasby",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "290",
+    "name": "Uppsala C",
+    "code": "74,u",
+    "slug": "uppsala-c",
+    "lat": "59.8587",
+    "lng": "17.6463"
+  },
+  {
+    "id": "291",
+    "name": "Vad",
+    "code": "74,vad",
+    "slug": "vad",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "292",
+    "name": "Vaggeryd",
+    "code": "74,vgd",
+    "slug": "vaggeryd",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "293",
+    "name": "Vagnh\u00e4rad",
+    "code": "74,vhd",
+    "slug": "vagnharad",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "294",
+    "name": "Vallsta",
+    "code": "74,vl",
+    "slug": "vallsta",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "295",
+    "name": "Vall\u00e5kra",
+    "code": "74,v\u00e5k",
+    "slug": "vallakra",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "296",
+    "name": "Vansbro",
+    "code": "74,vo",
+    "slug": "vansbro",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "297",
+    "name": "Varberg",
+    "code": "74,vb",
+    "slug": "varberg",
+    "lat": "57.1094",
+    "lng": "12.2481"
+  },
+  {
+    "id": "298",
+    "name": "Varg\u00f6n",
+    "code": "74,vag",
+    "slug": "vargon",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "299",
+    "name": "Vattholma",
+    "code": "74,vha",
+    "slug": "vattholma",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "300",
+    "name": "Vetlanda",
+    "code": "74,vta",
+    "slug": "vetlanda",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "301",
+    "name": "Vikingstad",
+    "code": "74,vsd",
+    "slug": "vikingstad",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "302",
+    "name": "Vimmerby",
+    "code": "74,vib",
+    "slug": "vimmerby",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "303",
+    "name": "Vindeln",
+    "code": "74,vdn",
+    "slug": "vindeln",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "304",
+    "name": "Ving\u00e5ker",
+    "code": "74,vr",
+    "slug": "vingaker",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "305",
+    "name": "Vinsl\u00f6v",
+    "code": "74,v\u00f6v",
+    "slug": "vinslov",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "306",
+    "name": "Virsbo",
+    "code": "74,vso",
+    "slug": "virsbo",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "307",
+    "name": "V\u00e5rg\u00e5rda",
+    "code": "74,vg\u00e5",
+    "slug": "vargarda",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "308",
+    "name": "V\u00e4lsviken",
+    "code": "74,kv\u00e4",
+    "slug": "valsviken",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "309",
+    "name": "V\u00e4nersborg C",
+    "code": "74,vg",
+    "slug": "vanersborg-c",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "310",
+    "name": "V\u00e4nn\u00e4s",
+    "code": "74,vns",
+    "slug": "vannas",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "311",
+    "name": "V\u00e4rnamo",
+    "code": "74,v",
+    "slug": "varnamo",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "312",
+    "name": "V\u00e4se",
+    "code": "74,ve",
+    "slug": "vase",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "313",
+    "name": "V\u00e4stervik",
+    "code": "74,vk",
+    "slug": "vastervik",
+    "lat": "57.7555",
+    "lng": "16.6433"
+  },
+  {
+    "id": "314",
+    "name": "V\u00e4ster\u00e5s C",
+    "code": "74,v\u00e5",
+    "slug": "vasteras-c",
+    "lat": "59.607",
+    "lng": "16.5515"
+  },
+  {
+    "id": "315",
+    "name": "V\u00e4xj\u00f6",
+    "code": "74,v\u00f6",
+    "slug": "vaxjo",
+    "lat": "56.8765",
+    "lng": "14.8078"
+  },
+  {
+    "id": "316",
+    "name": "Ystad",
+    "code": "74,y",
+    "slug": "ystad",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "317",
+    "name": "Ytterby",
+    "code": "74,yb",
+    "slug": "ytterby",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "318",
+    "name": "Yttermalung",
+    "code": "74,ym",
+    "slug": "yttermalung",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "319",
+    "name": "\u00c5karp",
+    "code": "74,\u00e5k",
+    "slug": "akarp",
+    "lat": "55.6583",
+    "lng": "13.1099"
+  },
+  {
+    "id": "320",
+    "name": "\u00c5motfors",
+    "code": "74,\u00e5t",
+    "slug": "amotfors",
+    "lat": "59.7684",
+    "lng": "12.3663"
+  },
+  {
+    "id": "321",
+    "name": "\u00c5m\u00e5l",
+    "code": "74,\u00e5l",
+    "slug": "amal",
+    "lat": "59.0464",
+    "lng": "12.6983"
+  },
+  {
+    "id": "322",
+    "name": "\u00c5nge",
+    "code": "74,\u00e5g",
+    "slug": "ange",
+    "lat": "62.5238",
+    "lng": "15.6566"
+  },
+  {
+    "id": "323",
+    "name": "\u00c5nn",
+    "code": "74,\u00e5nn",
+    "slug": "ann",
+    "lat": "63.3213",
+    "lng": "12.539"
+  },
+  {
+    "id": "324",
+    "name": "\u00c5re",
+    "code": "74,\u00e5re",
+    "slug": "are",
+    "lat": "63.3995",
+    "lng": "13.075"
+  },
+  {
+    "id": "325",
+    "name": "\u00c5storp",
+    "code": "74,\u00e5p",
+    "slug": "astorp",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "326",
+    "name": "\u00c5tvidaberg",
+    "code": "74,\u00e5vg",
+    "slug": "atvidaberg",
+    "lat": "58.2037",
+    "lng": "16.0019"
+  },
+  {
+    "id": "327",
+    "name": "\u00c4lmhult",
+    "code": "74,\u00e4h",
+    "slug": "almhult",
+    "lat": "56.5508",
+    "lng": "14.1369"
+  },
+  {
+    "id": "328",
+    "name": "\u00c4lvkarleby",
+    "code": "74,\u00e4kb",
+    "slug": "alvkarleby",
+    "lat": "60.5555",
+    "lng": "17.428"
+  },
+  {
+    "id": "329",
+    "name": "\u00c4lvsbyn",
+    "code": "74,\u00e4y",
+    "slug": "alvsbyn",
+    "lat": "65.678",
+    "lng": "20.9928"
+  },
+  {
+    "id": "330",
+    "name": "\u00c4lvsj\u00f6",
+    "code": "74,\u00e4s",
+    "slug": "alvsjo",
+    "lat": "59.2785",
+    "lng": "18.011"
+  },
+  {
+    "id": "331",
+    "name": "\u00c4lv\u00e4ngen",
+    "code": "74,\u00e4n",
+    "slug": "alvangen",
+    "lat": "57.959",
+    "lng": "12.118"
+  },
+  {
+    "id": "332",
+    "name": "\u00c4ng",
+    "code": "74,\u00e4ng",
+    "slug": "ang",
+    "lat": "57.6922",
+    "lng": "14.5673"
+  },
+  {
+    "id": "333",
+    "name": "\u00c4ngelholm",
+    "code": "74,\u00e4",
+    "slug": "angelholm",
+    "lat": "56.2469",
+    "lng": "12.8535"
+  },
+  {
+    "id": "334",
+    "name": "\u00c4ngelsberg",
+    "code": "74,\u00e4bg",
+    "slug": "angelsberg",
+    "lat": "59.9569",
+    "lng": "16.0093"
+  },
+  {
+    "id": "335",
+    "name": "\u00c4ppelbo",
+    "code": "74,\u00e4p",
+    "slug": "appelbo",
+    "lat": "60.4909",
+    "lng": "14.0008"
+  },
+  {
+    "id": "336",
+    "name": "\u00d6d\u00e5kra",
+    "code": "74,\u00f6da",
+    "slug": "odakra",
+    "lat": "56.1047",
+    "lng": "12.745"
+  },
+  {
+    "id": "337",
+    "name": "\u00d6rbyhus",
+    "code": "74,\u00f6h",
+    "slug": "orbyhus",
+    "lat": "60.2293",
+    "lng": "17.7034"
+  },
+  {
+    "id": "338",
+    "name": "\u00d6rebro C",
+    "code": "74,\u00f6r",
+    "slug": "orebro-c",
+    "lat": "59.2785",
+    "lng": "15.2112"
+  },
+  {
+    "id": "339",
+    "name": "\u00d6rebro S\u00f6dra",
+    "code": "74,\u00f6b",
+    "slug": "orebro-sodra",
+    "lat": "59.27",
+    "lng": "15.203"
+  },
+  {
+    "id": "340",
+    "name": "\u00d6rnsk\u00f6ldsvik Norra",
+    "code": "74,\u00f6kn",
+    "slug": "ornskoldsvik-norra",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "341",
+    "name": "\u00d6rnsk\u00f6ldsviks c",
+    "code": "74,\u00f6k",
+    "slug": "ornskoldsviks-c",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "342",
+    "name": "\u00d6rtofta",
+    "code": "74,\u00f6",
+    "slug": "ortofta",
+    "lat": "55.7792",
+    "lng": "13.245"
+  },
+  {
+    "id": "343",
+    "name": "\u00d6stersund C",
+    "code": "74,\u00f6s",
+    "slug": "ostersund-c",
+    "lat": "63.1705",
+    "lng": "14.6377"
+  },
+  {
+    "id": "344",
+    "name": "\u00d6stersund V\u00e4stra",
+    "code": "74,\u00f6sv",
+    "slug": "ostersund-vastra",
+    "lat": "63.1787",
+    "lng": "14.6311"
+  },
+  {
+    "id": "345",
+    "name": "\u00d6xnered",
+    "code": "74,\u00f6x",
+    "slug": "oxnered",
+    "lat": "58.3569",
+    "lng": "12.2727"
+  }
+]
