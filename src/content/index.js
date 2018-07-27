@@ -1,9 +1,34 @@
 console.log('content-script! aaa')
 const getDirection = require('../backend/getDirection')
+const SunCalc = require('suncalc')
 const stations = require('./stations.json')
 
 const addElement = (info, train) => {
   console.log('now we can add', info, train)
+  const sunInfo = SunCalc.getPosition(
+    info.time.start,
+    info.pos.start.lat,
+    info.pos.start.lng,
+  )
+  console.log('sunInfo', sunInfo)
+  const sunAngle = (sunInfo.azimuth * 180) / Math.PI
+  const sun = document.createElement('div')
+  const style = `
+    position: absolute;
+    top: -150px;
+    right: 0px;
+    width: 0;
+    height: 0;
+    border-left: 325px solid transparent;
+    border-right: 325px solid transparent;
+    border-top: 450px solid yellow;
+    border-radius: 50%;
+    transform: rotate(${sunAngle}deg);
+    opacity: 0.5;
+  `
+  sun.setAttribute('style', style)
+
+  train.appendChild(sun)
 }
 
 const replaceSwedishLetters = string => {
@@ -55,12 +80,18 @@ const extractInfo = journeyElement => {
         lng: destinationStation.lng,
       },
     },
-    time: {
-      start,
-      end,
-    },
+    time: {},
   }
   info.direction = getDirection(info.pos.start, info.pos.end)
+
+  info.time.start = new Date()
+  info.time.start.setHours(parseInt(start.split(':')[0]))
+  info.time.start.setMinutes(parseInt(start.split(':')[1]))
+
+  info.time.end = new Date()
+  info.time.end.setHours(parseInt(start.split(':')[0]))
+  info.time.end.setMinutes(parseInt(start.split(':')[1]))
+
   return info
 }
 
