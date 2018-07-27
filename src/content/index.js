@@ -1,5 +1,5 @@
 console.log('content-script! aaa')
-const getDirection = require('../backend/getDirection')
+const getDirection = require('./getDirection')
 const SunCalc = require('suncalc')
 const stations = require('./stations.json')
 

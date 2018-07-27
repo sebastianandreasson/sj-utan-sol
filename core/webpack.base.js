@@ -5,8 +5,7 @@ const CopyWebpackPlugin = require('copy-webpack-plugin')
 let resolve = dir => path.join(__dirname, '..', 'src', dir)
 module.exports = {
   entry: {
-    content: resolve('./content'),
-    background: resolve('./backend'),
+    inject: resolve('./content'),
   },
   output: {
     path: path.join(__dirname, '..', 'build'),
@@ -29,6 +28,12 @@ module.exports = {
   },
   plugins: [
     new CopyWebpackPlugin([{ from: path.join(__dirname, '..', 'static') }]),
+    new CopyWebpackPlugin([
+      {
+        from: 'src/manifest.json',
+        to: '',
+      },
+    ]),
   ],
   performance: { hints: false },
 }
