@@ -1,12 +1,11 @@
 {
-  "name": "SJ Ingen sol",
+  "name": "SJ utan sol",
   "version": "1.0.0",
   "description":
     "An extension to avoid sitting in the sunlight when riding SJ trains",
   "author": "Sebastian Andréasson",
   "manifest_version": 2,
-  "icons": { "16": "icons/16.png", "128": "icons/128.png" },
-  "permissions": ["<all_urls>", "*://*/*", "activeTab", "tabs"],
+  "permissions": ["*://*.sj.se/*", "activeTab"],
   "content_scripts": [
     {
       "js": ["js/inject.js"],

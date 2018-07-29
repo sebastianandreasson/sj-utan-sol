@@ -27,7 +27,6 @@ module.exports = {
     ],
   },
   plugins: [
-    new CopyWebpackPlugin([{ from: path.join(__dirname, '..', 'static') }]),
     new CopyWebpackPlugin([
       {
         from: 'src/manifest.json',

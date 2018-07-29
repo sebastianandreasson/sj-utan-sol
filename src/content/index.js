@@ -2,7 +2,7 @@ const getDirection = require('./getDirection')
 const SunCalc = require('suncalc')
 const stations = require('./stations.json')
 
-const setElementStyle = (info, sun, time, train, text) => {
+const setElementStyle = (info, sun, time, train) => {
   const sunInfo = SunCalc.getPosition(
     time ? time : info.time.start,
     info.pos.start.lat,
@@ -35,19 +35,18 @@ const addElement = (info, train) => {
   const sun = document.createElement('div')
   train.appendChild(sun)
 
-  const text = document.createElement('span')
-
   const slider = document.createElement('input')
   slider.setAttribute('type', 'range')
   slider.setAttribute('min', info.time.start.valueOf())
   slider.setAttribute('max', info.time.end.valueOf())
   slider.addEventListener('input', function() {
     const time = new Date(parseInt(this.value))
-    setElementStyle(info, sun, time, train, text)
+    setElementStyle(info, sun, time, train)
   })
-  train.appendChild(slider)
+  // used this for testing, might implement it better for showing sun during entire travel.
+  // train.appendChild(slider)
 
-  setElementStyle(info, sun, info.time.start, train, text)
+  setElementStyle(info, sun, info.time.start, train)
 }
 
 const replaceSwedishLetters = string => {
@@ -112,7 +111,7 @@ const extractInfo = journeyElement => {
   return info
 }
 
-const start = () => {
+const getElements = () => {
   const journeyInfo = document.getElementsByClassName(
     'action-bar__journey-container',
   )
@@ -122,7 +121,7 @@ const start = () => {
   }
 
   // keep looking at the page until we find the seatmap.
-  setTimeout(start, 1000)
+  setTimeout(getElements, 1000)
 }
 
-start()
+getElements()
