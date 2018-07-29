@@ -1,28 +1,31 @@
-console.log('content-script! aaa')
 const getDirection = require('./getDirection')
 const SunCalc = require('suncalc')
 const stations = require('./stations.json')
 
-const setElementStyle = (info, sun, time) => {
-  console.log(time)
+const setElementStyle = (info, sun, time, train, text) => {
   const sunInfo = SunCalc.getPosition(
     time ? time : info.time.start,
     info.pos.start.lat,
     info.pos.start.lng,
   )
-  console.log('sunInfo', sunInfo)
-  const sunAngle = (sunInfo.azimuth * 180) / Math.PI
+
+  // get the position of the sun based on which direction we're traveling.
+  const azimuthAngle = (sunInfo.azimuth * 180) / Math.PI - info.direction.angle
+  const altitudeAngle = (sunInfo.altitude * 180) / Math.PI
+  const trainWidth = train.getBoundingClientRect().width
+
   const style = `
+    pointer-events: none;
     position: absolute;
-    top: -150px;
-    right: 0px;
+    top: ${info.direction.angle > 0 ? -100 : 75}px;
+    right: -${trainWidth / 2 - 250}px;
     width: 0;
     height: 0;
-    border-left: 325px solid transparent;
-    border-right: 325px solid transparent;
-    border-top: 450px solid yellow;
+    border-left: 750px solid transparent;
+    border-right: 750px solid transparent;
+    border-top: 400px solid yellow;
     border-radius: 50%;
-    transform: rotate(${sunAngle}deg);
+    transform: rotate(${-azimuthAngle}deg);
     opacity: 0.5;
   `
   sun.setAttribute('style', style)
@@ -32,17 +35,19 @@ const addElement = (info, train) => {
   const sun = document.createElement('div')
   train.appendChild(sun)
 
+  const text = document.createElement('span')
+
   const slider = document.createElement('input')
   slider.setAttribute('type', 'range')
   slider.setAttribute('min', info.time.start.valueOf())
   slider.setAttribute('max', info.time.end.valueOf())
-  slider.addEventListener('change', function() {
+  slider.addEventListener('input', function() {
     const time = new Date(parseInt(this.value))
-    setElementStyle(info, sun, time)
+    setElementStyle(info, sun, time, train, text)
   })
   train.appendChild(slider)
 
-  setElementStyle(info, sun)
+  setElementStyle(info, sun, info.time.start, train, text)
 }
 
 const replaceSwedishLetters = string => {
@@ -56,14 +61,11 @@ const extractInfo = journeyElement => {
   // looks like:
   // 'Göteborg C – Sthlm Central↵Mån 27 aug 2018, 05:54 – 08:49, 2 klass Kan ej ombokas↵'
   const text = journeyElement.innerText.split('\n')
-  console.log(text)
   const [departure, destination] = text[0].split(' – ')
-  console.log({ departure, destination })
   const [start, end] = text[1].split(',')[1].split(' – ')
-  console.log({ start, end })
 
   if (!departure || !destination) {
-    throw new Error('oh no didnt departure or destination info')
+    throw new Error('oh no didnt find departure or destination info')
   }
 
   const departureStation = stations.find(station => {
@@ -102,6 +104,7 @@ const extractInfo = journeyElement => {
   info.time.start.setHours(parseInt(start.split(':')[0]))
   info.time.start.setMinutes(parseInt(start.split(':')[1]))
 
+  // just assume we arrive same day for now.
   info.time.end = new Date()
   info.time.end.setHours(parseInt(end.split(':')[0]))
   info.time.end.setMinutes(parseInt(end.split(':')[1]))
@@ -118,6 +121,7 @@ const start = () => {
     return addElement(extractInfo(journeyInfo[0]), train)
   }
 
+  // keep looking at the page until we find the seatmap.
   setTimeout(start, 1000)
 }
 
